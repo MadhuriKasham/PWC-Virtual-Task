@@ -1,14 +1,14 @@
-📋 Introduction
-This repository shows the steps taken and the results of the tasks finished during the Forage-created PwC Switzerland PowerBI Virtual Case Experience. Utilizing Power BI, the virtual internship simulates working in the PwC Switzerland Digital Accelerator team.
+This repository contains the completed tasks and files from the PwC and KPMG virtual internship programs. 
+This is a virtual internship programs focuses hands-on experience in data analysis and other business-related skills.
 
-With the exception of the data files, which were provided by PwC Switzerland, all of these.pbix files and insights were my contributions to this application.
+Tech Stack includes: 
+>>> Python
+>>> Power BI
+>>> Excel
 
-📌Higlights
+Certifications
+> Completed PwC Virtual Internship Program on September 2023
+> Completed KPMG Virtual Internship Program on September 2023
 
-Task 1: Create Call Centre Dashboard - visualizing customer and agent behavior.
-Task 2: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
-Task 3: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
 
-Tech Stack
-Visualization:
-Microsoft PowerBI
+
